@@ -1,0 +1,7 @@
+C:\Users\John\source\repos\Лабораторні з 6\Лабораторні з 6\obj\Debug\Лабораторні з 6.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\Лабораторні з 6\Лабораторні з 6\obj\Debug\Лабораторні з 6.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Лабораторні з 6\Лабораторні з 6\bin\Debug\Лабораторні з 6.exe.config
+C:\Users\John\source\repos\Лабораторні з 6\Лабораторні з 6\bin\Debug\Лабораторні з 6.exe
+C:\Users\John\source\repos\Лабораторні з 6\Лабораторні з 6\bin\Debug\Лабораторні з 6.pdb
+C:\Users\John\source\repos\Лабораторні з 6\Лабораторні з 6\obj\Debug\Лабораторні з 6.exe
+C:\Users\John\source\repos\Лабораторні з 6\Лабораторні з 6\obj\Debug\Лабораторні з 6.pdb
